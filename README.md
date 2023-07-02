@@ -7,7 +7,7 @@ To run:
 
 You should see something similar to the following `console.log`ed:
 
-```json
+```typescript
 {
   baseFeePerGas: 21533428463n,
   difficulty: 0n,
